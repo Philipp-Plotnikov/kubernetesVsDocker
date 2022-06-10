@@ -1,0 +1,10 @@
+{
+  "name": "echo-server",
+  "version": "1.0.0",
+  "description": "Demo",
+  "main": "server.js",
+  "repository": "https://github.com/PhilippDeveloper/kubernetesVsDocker",
+  "author": "PhilippPlotnikov",
+  "license": "MIT",
+  "private": false
+}
